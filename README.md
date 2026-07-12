@@ -3,11 +3,11 @@
 A simple 3D game project created with Python and Panda3D.
 
 ## Features
-Player movement
-Collectible objects
-Random collectible locations
-Score tracking
-Basic game boundaries
+- Player movement
+- Collectible objects
+- Random collectible locations
+- Score tracking
+- Basic game boundaries
 
 
 ## Requirements
